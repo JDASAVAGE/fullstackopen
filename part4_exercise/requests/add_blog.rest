@@ -1,0 +1,5 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlN0ZXZlVGhlS2lkIiwiaWQiOiI2NWU0MzE4MWJiOWM1ZThjMjJjMGNlNDIiLCJpYXQiOjE3MDk0NTQ3NDF9.nLBH1Gk3dE094EkGUo8rIS2mgs2FxR0D0jyr_lkTb2s
+
+{"title":"Why Federer is better than Djokovic","Author":"Jerome","URL":"RFrolex.com","likes":10000000}
